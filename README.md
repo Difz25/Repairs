@@ -2,14 +2,9 @@
 
 # Commands
 
-| Commands |
-|-|
-|/repair|/repairall|/rename|/lore|
-
-| Permission |
-|-|
-|repair.use|
-|repair.all|
-|rename.use|
-|lore.use|
-
+| Commands | | Permission |
+|-|-|
+|/repair|repair.use|op|
+|/repairall|repair.all|op|
+|/rename|rename.use|op|
+|/lore|lore.use|op|
