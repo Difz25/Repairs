@@ -4,4 +4,5 @@
 
 |Commands|Permission|
 |/repair|/repairall|/rename|/lore|
+|-|-|-|-|
 
