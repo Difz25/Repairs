@@ -2,8 +2,8 @@
 
 # Commands
 
-| Commands | Permission |
-|-|-|
+| Commands | Permission | Default |
+|-|-|-|
 |/repair|repair.use|op|
 |/repairall|repair.all|op|
 |/rename|rename.use|op|
