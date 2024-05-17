@@ -8,5 +8,8 @@
 
 | Permission |
 |-|
-|repair.use|repair.all|rename.use|lore.use|
+|repair.use|
+|repair.all|
+|rename.use|
+|lore.use|
 
