@@ -1,0 +1,31 @@
+# Repairs V1.0.0 by Difz25
+#######
+
+# repair
+  repair: "repair"
+  repair-description: "Repair your Item in your Hand"
+  noPermission: "§6§lRepairs §r§8» §You don't have permission."
+  repair-noitem: "§6§lRepairs §r§8» §cYou have no item in your Hand!"
+  instanceof: "§6§lRepairs §r§8» §cYou cannot repair this item"
+  repair-succes: "§6§lRepairs §r§8» §aYou have been repaired."
+  
+# repairall
+  repair-all: "repairall"
+  repair-all-description: "Repairs all your items"
+  noPermission: "§6§lRepairs §r§8» §cYou don't have permission."
+  repair-all-message: "§6§lRepairs §r§8» §aAll items in your inventory has been repaired!"
+
+# rename
+  rename: "rename"
+  rename-description: "Rename your items"
+  noPermission: "§6§lRepairs §r§8» §cYou don't have permission."
+  rename-message: "§6§lRepairs §r§8» §aYou items have been renamed."
+
+# lore
+  lore: "lore"
+  lore-description: "Lore your items"
+  noPermission: "§6§lRepairs §r§8» §cYou don't have permission."
+  lore-message: "§6§lRepairs §r§8» §aYou items have been lore."
+
+# run ingame
+  run-ingame: "§6§lRepairs §r§8» §crun this command ingame!"

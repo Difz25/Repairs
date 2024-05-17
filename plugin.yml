@@ -1,0 +1,17 @@
+name: Repairs
+main: Difz25\Repairs\Main
+author: Difz25
+api: 5.0.0
+description: Easy Repair plugin
+version: 1.0.0
+website: https://github.com/Difz25/Repairs
+
+permissions:
+  repair.use:
+    default: op
+  repair.all:
+    default: op
+  rename.use:
+    default: op
+  lore.use:
+    default: op
