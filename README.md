@@ -7,7 +7,7 @@
 |/repair|/repairall|/rename|/lore|
 |-|-|-|-|
 
-|Permission|
+| Permission |
 |:--:||:--:||:--:||:--:|
 |repair.use|repair.all|rename.use|lore.use|
 |-|-|-|-|
