@@ -2,7 +2,7 @@
 
 # Commands
 
-| Commands | | Permission |
+| Commands | Permission |
 |-|-|
 |/repair|repair.use|op|
 |/repairall|repair.all|op|
